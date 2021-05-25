@@ -1,3 +1,2 @@
-environment=devbox,
-hostname=$hostname
-admin=$admin
+environment=ENV_NAME
+hostname=ENV_HOSTNAME
