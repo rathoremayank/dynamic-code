@@ -1,0 +1,3 @@
+environment=devbox,
+hostname=$hostname
+admin=$admin
